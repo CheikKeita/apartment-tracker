@@ -1,7 +1,7 @@
 # Apartment Tracker
 
 ## Why I Built This
-I’m currently in the process of moving and looking for apartments. While searching, I noticed that I would sometimes come across apartments I had already looked at or forget things like the price or what I liked about them. I built Apartment Tracker to help me organize my apartment search and keep all of that information in one place.
+I built Apartment Tracker while I was looking for apartments. During my search, I noticed that I would sometimes come across apartments I had already looked at or forget things like the price or what I liked about them. I wanted a way to organize my apartment search and keep all of that information in one place.
 
 ## Features
 - Add apartment listings with details like area, rent, bedrooms, status, and notes
